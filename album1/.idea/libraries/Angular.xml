@@ -1,0 +1,8 @@
+<component name="libraryTable">
+  <library name="Angular" type="javaScript">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../album_rsc/angular.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

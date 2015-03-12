@@ -1,0 +1,42 @@
+@charset "utf-8";
+@font-face{
+	src:url("../album_rsc/fontes/worstveldSlingExtra.ttf");
+	font-family:worstveld;
+}
+*{
+	position:relative;
+	margin:0;
+	padding:0;
+	font-weight:normal;
+	box-sizing:border-box;
+}
+body{
+	background-color:#000;
+}
+#global{
+	width:750px;
+	height:500px;
+	margin:10px auto 10px auto;
+	padding:20px 30px 20px 30px;
+	border:solid #DDD 5px;
+	border-radius:3px;
+	font-family:arial,sans-serif;
+	color:#FFFFFF;
+}
+#global>h1{
+	width:100%;
+	text-transform:capitalize;
+	text-align:center;
+	font-family:worstveld,sans-serif;
+	font-size:50px;
+	font-stretch:ultra-expanded;
+	color:#FF9900;
+}
+ul{
+	height:380px;
+	overflow:auto;
+	list-style:none;
+}
+li{
+	margin:0 0 10px 0;
+}
